@@ -13,7 +13,7 @@ Diretório com informações e documentos adicionais da matéria de TCC pós gra
  - [x] Protótipo navegável do sistema
  - [x] Diagrama de classes de domínio
  - [x] Modelo de componentes
- - [ ] Diagrama de implantação
+ - [x] Diagrama de implantação
  - [ ] Plano de Testes
  - [ ]  Estimativa de pontos de função
  - [ ] Informações da implementação
