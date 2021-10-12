@@ -14,6 +14,6 @@ Diretório com informações e documentos adicionais da matéria de TCC pós gra
  - [x] Diagrama de classes de domínio
  - [x] Modelo de componentes
  - [x] Diagrama de implantação
- - [ ] Plano de Testes
- - [ ]  Estimativa de pontos de função
- - [ ] Informações da implementação
+ - [x] Plano de Testes
+ - [x]  Estimativa de pontos de função
+
